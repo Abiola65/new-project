@@ -111,3 +111,74 @@ button img{
     margin-top: 70px;
     margin-left: 100px;
 }
+
+.line-break{
+    flex-wrap: nowrap;
+    display: flex;
+    margin-top: 200px;
+    background-color: rgba(89, 145, 43, 1);
+    width: 1050px;
+    height: 100px;
+    gap: 5rem;
+    padding-left: 30px;
+    color: white;
+}
+
+.line-break h1{
+    font-size: 16px;
+}
+
+.numeric{
+    font-size: 40px;
+}
+
+.core-texts{
+    margin-left: 400px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+
+.core-texts h1{
+    color: rgba(70, 70, 70, 1)
+}
+
+.core-texts p{
+    color: rgba(70, 70, 70, 1);
+}
+
+.container{
+    display: flex;
+}
+
+.content-container{
+    border-radius: 23px;
+    background-color: white;
+    margin-top: 100px;
+    width: 250px;
+    height: 180px;
+    margin-left: 20px;
+}
+.content-container h1 {
+    color: rgba(70, 70, 70, 1);
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 22px;
+}
+.content-container p{
+    color: rgba(112, 112, 112, 1);
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.pic-circle{
+    width: 40px;
+    margin-left: 20px;
+}
+
+.ticket{
+    position: absolute;
+    width: 22px;
+    margin-left: -30px;
+    margin-top: 10px;
+}
