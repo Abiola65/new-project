@@ -183,3 +183,71 @@ button img{
     margin-left: -30px;
     margin-top: 28px;
 }
+
+.linear h1{
+    font-size: 50px;
+    color: rgba(70, 70, 70, 1);
+    margin-top: 100px;
+    text-align: center;
+}
+
+.circle-3{
+    width: 450px;
+    margin-top: 180px;
+    margin-left: 300px;
+    
+}
+
+.phone-3{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 300px;
+    top: 1800px;
+}
+
+.phone-4{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 430px;
+    top: 1800px;
+}
+
+.bank-note{
+    position: absolute;
+    left: 270px;
+    top: 1760px;
+}
+
+.text-circle h1 {
+    color: rgba(70, 70, 70, 1);
+    position: absolute;
+    top: 1800px;
+    left: 100px;
+}
+
+.text-circle p {
+    color: rgba(70, 70, 70, 1);
+    position: absolute;
+    top: 1850px;
+    left: 100px;
+}
+.bank-note-2{
+    position: absolute;
+    left: 830px;
+    top: 1760px;
+}
+.text-circle-2 h1{
+    color: rgba(70, 70, 70, 1);
+    position: absolute;
+    left: 830px;
+    top: 1800px;
+}
+
+.text-circle-2 p{
+    color: rgba(70, 70, 70, 1);
+    position: absolute;
+    left: 830px;
+    top: 1850px;
+}
