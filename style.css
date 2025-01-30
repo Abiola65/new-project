@@ -251,3 +251,78 @@ button img{
     left: 830px;
     top: 1850px;
 }
+
+.ban-note-2{
+    position: absolute;
+    top: 2100px;
+    left: 270px;
+
+}
+
+.text h1 {
+    color: rgba(70, 70, 70, 1);
+    position: absolute;
+    top: 2150px;
+    left: 160px;
+}
+
+.text p {
+    color: rgba(70, 70, 70, 1);
+    position: absolute;
+    top: 2200px;
+    left: 100px;
+}
+
+
+.bank-not-2{
+    position: absolute;
+    top: 2100px;
+    left: 830px;
+}
+
+.last-text h1{
+    color: rgba(70, 70, 70, 1);
+    position: absolute;
+    top: 2150px;
+    left: 830px;
+}
+
+.last-text p{
+    position: absolute;
+    color: rgba(70, 70, 70, 1);
+    top: 2200px;
+    left: 830px;
+}
+
+
+.Steps{
+    margin-top: 300px;
+    text-align: center;
+    background-color: rgba(89, 145, 43, 1);
+    height: 500px;
+}
+
+.Steps h1 {
+    font-size: 40px;
+    color: white;
+    padding-top: 50px;
+}
+
+.Steps p{
+    color: white;
+    margin-top: 10px;
+}
+.arrow{
+    margin-top: 100px;
+}
+
+.app-text{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.frame-vid{
+    width: 800px;
+    margin-top: 100px;
+}
