@@ -326,3 +326,77 @@ button img{
     width: 800px;
     margin-top: 100px;
 }
+
+.customers{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 25px;
+}
+.img-frame{
+    margin-top: 100px;
+    gap: 1rem;
+}
+.frame-1{
+    width: 97px;
+}
+
+.frame-2{
+    width: 410px;
+}
+
+.frame-3{
+    width: 413px;
+}
+.frame-4{
+    width: 148px;
+}
+
+.frame-5{
+    width: 310px;
+}
+
+.frame-6{
+    width: 400px;
+}
+
+.frame-7{
+    width: 348px;
+}
+
+.image-frame{
+    margin-top: 30px;
+}
+
+.icons{
+    display: flex;
+    gap: 3rem;
+    margin-top: 50px;
+}
+
+.icon-1{
+    width: 120px;
+}
+
+.icon-2{
+    width: 120px;
+}
+
+.icon-3{
+    width: 120px;
+}
+
+.icon-4{
+    width: 120px;
+}
+
+.icon-5{
+    width: 120px;
+}
+
+.icon-6{
+    width: 120px;
+}
+
+.icon-7{
+    width:70px;
+}
